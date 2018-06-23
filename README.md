@@ -8,7 +8,7 @@ PHP 实现手机号码归属地查询，数据文件来自 [https://github.com/l
 
 ### Installation
 ```
-composer require "lyhiving/mobile2location:^0.1"
+composer require "lyhiving/mobile2location:^1.0"
 ```
 
 ### Usage
