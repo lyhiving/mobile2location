@@ -1,0 +1,25 @@
+{
+    "name": "lyhiving/phone-location",
+    "description": "location of phone number",
+    "keywords": ["phone", "location"],
+    "license": "MIT",
+    "homepage": "https://github.com/lyhiving/phone-location",
+    "authors": [
+        {
+            "name": "lyhiving",
+            "email": "lyhiving@gmail.com",
+            "homepage": "https://github.com/lyhiving/"
+        }
+    ],
+    "require": {
+        "php": ">=5.6.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "lyhiving\\Phone\\": "src/"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^5.7"
+    }
+}
