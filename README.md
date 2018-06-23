@@ -14,7 +14,7 @@ composer require "lyhiving/mobile2location:^0.1"
 ### Usage
 ```php
 <?php
-use lyhiving\Phone\Mobile2Location;
+use lyhiving\Mobile\Mobile2Location;
 
 // composer 方式安装
 // include './vendor/autoload.php';

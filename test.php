@@ -1,6 +1,6 @@
 <?php
 
-use lyhiving\Phone\Mobile2Location;
+use lyhiving\Mobile\Mobile2Location;
 
 include './src/Mobile2Location.php';
 

@@ -1,7 +1,7 @@
 {
     "name": "lyhiving/mobile2location",
-    "description": "location of phone number",
-    "keywords": ["phone", "location"],
+    "description": "location of mobile phone number",
+    "keywords": ["mobile" ,"phone", "location"],
     "license": "MIT",
     "homepage": "https://github.com/lyhiving/mobile2location",
     "authors": [
@@ -16,7 +16,7 @@
     },
     "autoload": {
         "psr-4": {
-            "lyhiving\\Phone\\": "src/"
+            "lyhiving\\Mobile\\": "src/"
         }
     },
     "require-dev": {

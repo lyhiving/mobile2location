@@ -1,6 +1,6 @@
 <?php
 
-use lyhiving\Phone\Mobile2Location;
+use lyhiving\Mobile\Mobile2Location;
 
 /**
 * Phone Test
@@ -22,14 +22,14 @@ class PhoneTest extends PHPUnit_Framework_TestCase
     public function testPhoneInfo()
     {
         $info = function () {
-            return $this->phone->phoneInfo('上海|上海|200000|021', 1);
+            return $this->phone->phoneInfo('北京|北京|100000|010', 1);
         };
         $this->assertNotEmpty($info);
     }
 
     public function testPhoneFind()
     {
-        $info = $this->phone->find(18621281566);
+        $info = $this->phone->find(13800138000);
         $this->assertNotEmpty($info);
     }
 }

@@ -5,7 +5,7 @@
 * 数据文件格式参考：https://github.com/lovedboy/phone
 */
 
-namespace lyhiving\Phone;
+namespace lyhiving\Mobile;
 
 class Mobile2Location
 {
