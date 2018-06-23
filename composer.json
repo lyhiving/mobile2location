@@ -1,9 +1,9 @@
 {
-    "name": "lyhiving/Mobile2Location",
+    "name": "lyhiving/mobile2location",
     "description": "location of phone number",
     "keywords": ["phone", "location"],
     "license": "MIT",
-    "homepage": "https://github.com/lyhiving/Mobile2Location",
+    "homepage": "https://github.com/lyhiving/mobile2location",
     "authors": [
         {
             "name": "lyhiving",
