@@ -4,7 +4,11 @@
 [![Minimum PHP Version](https://img.shields.io/badge/php-%3E%3D%205.6-8892BF.svg)](https://php.net/)
 
 
-PHP 实现手机号码归属地查询，数据文件来自 [https://github.com/lovedboy/phone](https://github.com/lovedboy/phone)
+PHP 实现手机号码归属地查询，数据文件来自 [https://github.com/lovedboy/phone](https://github.com/lovedboy/phone) 
+
+ - 归属地信息库文件大小：3,501,109 字节
+ - 归属地信息库最后更新：2018年4月
+ - 手机号段记录条数：387695
 
 ### Installation
 ```
@@ -39,6 +43,8 @@ Array
 
 ### Thanks
 [https://github.com/lovedboy/phone](https://github.com/lovedboy/phone)
+
+[https://github.com/xluohome/phonedata](https://github.com/xluohome/phonedata)
 
 ### License
 [MIT license.](https://raw.githubusercontent.com/lyhiving/mobile2location/master/LICENSE)
